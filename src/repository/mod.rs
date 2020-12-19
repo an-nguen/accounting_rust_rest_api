@@ -1,0 +1,12 @@
+#[macro_use] mod macros;
+pub mod user_repository;
+pub mod role_repository;
+pub mod privilege_repository;
+pub mod user_role_repository;
+pub mod role_privilege_repository;
+pub mod document_type_repository;
+pub mod company_repository;
+pub mod unit_repository;
+pub mod document_repository;
+pub mod document_item_repository;
+pub mod currency_repository;
